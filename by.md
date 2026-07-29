@@ -1,6 +1,6 @@
 # WRECK-IT 7.0 — Memory Forensics Challenge Writeup
 
-**Author:** 4Better  
+**Author:** keii  
 **Category:** Forensics / Reverse Engineering  
 **Flag:** `WRECKIT7{it_wrecked?_again?_lmao}`
 
